@@ -1,0 +1,23 @@
+Kelime Frekans Analizi
+----------------------
+yavaş: 2
+ahmet: 1
+cemil: 1
+o: 1
+gece: 1
+karanlıkta: 1
+gökyüzüne: 1
+bakarken: 1
+hayalleri: 1
+ve: 1
+gerçekleri: 1
+arasında: 1
+sıkışıp: 1
+kaldığını: 1
+hissetti: 1
+mai: 1
+hayaller: 1
+yerini: 1
+siyah: 1
+gerçeklere: 1
+bırakıyordu: 1
